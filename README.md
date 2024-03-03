@@ -19,7 +19,14 @@ No arquivo `exercicio-3-multiplos.js`, você encontrará uma função que retorn
 
 ## Como Executar
 
-Certifique-se de ter um ambiente Node.js instalado. Para executar cada script, utilize o seguinte comando no terminal:
+Para executar cada script:
+
+1. Certifique-se de ter um ambiente Node.js instalado. 
+2. Clone este projeto em sua máquina
+3. Navegue até a pasta que contém os arquivos utilizando `cd modulo20-exercicios`
+4. Utilize o seguinte comando no terminal:
 
 ```bash
 node nome-do-arquivo.js
+
+🚀
