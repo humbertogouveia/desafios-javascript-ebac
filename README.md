@@ -11,5 +11,6 @@ Esta branch contém testes unitários realizados com Jest nos três exercícios 
 
 ```bash
 npm test
+```
 
 🚀
